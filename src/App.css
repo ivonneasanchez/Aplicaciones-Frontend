@@ -53,6 +53,7 @@
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
   width: 850px;
   justify-content: center;
+  align-items: center;
 }
 
 h2 {
@@ -62,6 +63,7 @@ h2 {
 
 .form-group {
   margin-bottom: 15px;
+  align-items: center;
 }
 
 .form-group label {
@@ -108,4 +110,10 @@ form-button:hover {
   text-align: center;
   margin-bottom: 5px;
   font-size: 12px;
+}
+
+p{
+  font-size: 20px;
+  text-align: center;
+  margin: 2%;
 }
